@@ -1,5 +1,5 @@
 
-# Heart Disease Prediction - Problem Statement
+# Heart Disease Prediction using KNN and RandomForest
 
 ## Overview
 Heart disease is recognized as the leading cause of death in the developed world. The objective of this project is to employ a dataset for predicting the likelihood of patients suffering from heart disease in the near future based on various features.
@@ -48,6 +48,4 @@ The dataset utilized for this prediction is available [here](https://github.com/
   - Focus on significant predictors for early screening and targeted prevention strategies to combat heart disease effectively.
 
 ---
-
-This analysis utilizes advanced data science techniques to provide a thorough understanding of factors influencing heart disease, aiding in better prediction and prevention strategies.
 
